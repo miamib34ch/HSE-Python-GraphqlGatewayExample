@@ -1,0 +1,14 @@
+version: '3.9'
+
+services:
+  # основное приложение
+  app:
+    build: .
+    command: flask --debug run --host=0.0.0.0 --port=8000
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./src:/src
+      - ./docs:/docs
+    env_file:
+      - .env

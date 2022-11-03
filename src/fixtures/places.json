@@ -1,0 +1,70 @@
+{
+    "data": [
+        {
+            "created_at": "2022-10-29T10:37:17.774308",
+            "updated_at": "2022-10-29T10:37:17.774319",
+            "id": 1,
+            "latitude": 58.0081,
+            "longitude": 56.249,
+            "description": "Супер место!",
+            "country": "RU",
+            "city": "Perm",
+            "locality": "Sverdlovsky City District"
+        },
+        {
+            "created_at": "2022-10-29T10:38:35.528786",
+            "updated_at": "2022-10-29T10:38:35.528801",
+            "id": 2,
+            "latitude": 44.8089,
+            "longitude": 20.4665,
+            "description": "Отличное место",
+            "country": "RS",
+            "city": "Belgrade",
+            "locality": "Vračar"
+        },
+        {
+            "created_at": "2022-10-29T10:39:14.174794",
+            "updated_at": "2022-10-29T10:39:14.174801",
+            "id": 3,
+            "latitude": 443.8089,
+            "longitude": -320.4665,
+            "description": "Странное место.",
+            "country": null,
+            "city": null,
+            "locality": null
+        },
+        {
+            "created_at": "2022-10-29T12:16:05.822159",
+            "updated_at": "2022-10-29T12:16:05.822168",
+            "id": 17,
+            "latitude": 44.8089,
+            "longitude": -32.4665,
+            "description": "Новое место.",
+            "country": null,
+            "city": null,
+            "locality": "Atlantic Ocean"
+        },
+        {
+            "created_at": "2022-11-02T11:55:32.618596",
+            "updated_at": "2022-11-02T11:55:32.618686",
+            "id": 56,
+            "latitude": 55.7498,
+            "longitude": 37.6179,
+            "description": "Красная площадь.",
+            "country": "RU",
+            "city": "Moscow",
+            "locality": "Moscow Kremlin"
+        },
+        {
+            "created_at": "2022-11-02T11:57:32.390456",
+            "updated_at": "2022-11-02T11:57:32.390502",
+            "id": 57,
+            "latitude": 53.3301,
+            "longitude": -6.2667,
+            "description": "Графтон-стрит.",
+            "country": "IE",
+            "city": "Dublin",
+            "locality": "Portobello"
+        }
+    ]
+}

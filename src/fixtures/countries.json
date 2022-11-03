@@ -1,0 +1,91 @@
+[
+    {
+        "id": 3,
+        "name": "Ireland",
+        "alpha2code": "IE",
+        "alpha3code": "IRL",
+        "capital": "Dublin",
+        "region": "Europe",
+        "subregion": "Northern Europe",
+        "population": 6378000,
+        "latitude": 53.0,
+        "longitude": -8.0,
+        "demonym": "Irish",
+        "area": 70273.0,
+        "numeric_code": "372",
+        "flag": "http://assets.promptapi.com/flags/IE.svg",
+        "currencies": [
+            "EUR"
+        ],
+        "languages": [
+            "English",
+            "Irish"
+        ]
+    },
+    {
+        "id": 1,
+        "name": "Russian Federation",
+        "alpha2code": "RU",
+        "alpha3code": "RUS",
+        "capital": "Moscow",
+        "region": "Europe",
+        "subregion": "Eastern Europe",
+        "population": 146599183,
+        "latitude": 60.0,
+        "longitude": 100.0,
+        "demonym": "Russian",
+        "area": 17124442.0,
+        "numeric_code": "643",
+        "flag": "http://assets.promptapi.com/flags/RU.svg",
+        "currencies": [
+            "RUB"
+        ],
+        "languages": [
+            "Russian"
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Serbia",
+        "alpha2code": "RS",
+        "alpha3code": "SRB",
+        "capital": "Belgrade",
+        "region": "Europe",
+        "subregion": "Southern Europe",
+        "population": 7076372,
+        "latitude": 44.0,
+        "longitude": 21.0,
+        "demonym": "Serbian",
+        "area": 88361.0,
+        "numeric_code": "688",
+        "flag": "http://assets.promptapi.com/flags/RS.svg",
+        "currencies": [
+            "RSD"
+        ],
+        "languages": [
+            "Serbian"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "United States of America",
+        "alpha2code": "US",
+        "alpha3code": "USA",
+        "capital": "Washington, D.C.",
+        "region": "Americas",
+        "subregion": "Northern America",
+        "population": 323947000,
+        "latitude": 38.0,
+        "longitude": -97.0,
+        "demonym": "American",
+        "area": 9629091.0,
+        "numeric_code": "840",
+        "flag": "http://assets.promptapi.com/flags/US.svg",
+        "currencies": [
+            "USD"
+        ],
+        "languages": [
+            "English"
+        ]
+    }
+]
