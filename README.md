@@ -28,14 +28,14 @@ git clone https://github.com/mnv/python-course-graphql-gateway
 
 2. Build the container using Docker Compose:
     ```shell
-    docker-compose build
+    docker compose build
     ```
     This command should be run from the root directory where `Dockerfile` is located.
     You also need to build the docker container again in case if you have updated `requirements.txt`.
 
 3. To run the project inside the Docker container:
     ```shell
-    docker-compose up
+    docker compose up
     ```
    When containers are up server starts at [http://0.0.0.0:8000/graphql](http://0.0.0.0:8000/graphql). You can open it in your browser.
 
