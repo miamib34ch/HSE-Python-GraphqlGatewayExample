@@ -37,7 +37,7 @@ git clone https://github.com/mnv/python-course-graphql-gateway
     ```shell
     docker compose up
     ```
-   When containers are up server starts at [http://0.0.0.0:8000/graphql](http://0.0.0.0:8000/graphql). You can open it in your browser.
+   When containers are up server starts at [http://127.0.0.1:8000/graphql](http://127.0.0.1:8000/graphql). You can open it in your browser.
 
 ## Usage
 
