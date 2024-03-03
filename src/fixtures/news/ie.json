@@ -1,0 +1,49 @@
+{
+  "status": "ok",
+  "totalResults": 6036,
+  "articles":
+  [
+    {
+      "source":
+      {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Fly-half Costelow returns for Wales trip to Dublin",
+      "description": "Sam Costelow is back at fly-half as Wales' only starting change for their Six Nations trip to face Ireland in Dublin on Saturday.",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/68331745",
+      "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/6106/production/_132683842__124395519_bbcbreakingnewsgraphicindex.jpg",
+      "publishedAt": "2024-02-20T11:00:02Z",
+      "content": "<table><tr><th>Guinness Six Nations: Ireland v Wales</th></tr>\r\n<tr><td>Venue: Aviva Stadium, Dublin Date: Saturday, 24 February Kick-off: 14:15 GMT</td></tr><tr><td>Coverage: Watch live on S4C; List\u2026 [+2477 chars]"
+    },
+    {
+      "source":
+      {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Ireland beat Wales to make it three wins in three",
+      "description": "Ireland move closer to completing back-to-back Six Nations Grand Slams with an unconvincing win over a spirited Wales side in Dublin.",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/68391672",
+      "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/9D32/production/_132724204_gettyimages-2035361994.jpg",
+      "publishedAt": "2024-02-24T16:16:36Z",
+      "content": "Ciaran Frawley marked his first Six Nations start with an important second-half try\r\n<table><tr><th>Six Nations 2024: Ireland v Wales</th></tr>\r\n<tr><td>Ireland: (17) 31</td></tr><tr><td>Tries: Sheeh\u2026 [+2634 chars]"
+    },
+    {
+      "source":
+      {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Alexis McSparren",
+      "title": "I moved from the US to Ireland. Here are 11 things that surprised me most.",
+      "description": "I spontaneously moved from the US to Ireland, and I wasn't prepared for the differences in the language, the pace of life, or the function of alcohol.",
+      "url": "https://www.businessinsider.com/surprising-things-moving-to-ireland-from-us-2022-2",
+      "urlToImage": "https://i.insider.com/65d613c9a610a9069d5adc4a?width=1200&format=jpeg",
+      "publishedAt": "2024-02-21T15:17:30Z",
+      "content": "I've been blown away by the beauty of the Irish countryside.Alexis McSparren\r\n<ul>\n<li>After growing up in the US, I made the spontaneous decision to move to Dublin, Ireland.</li>\n<li>I've experience\u2026 [+10021 chars]"
+    }
+  ]
+}
