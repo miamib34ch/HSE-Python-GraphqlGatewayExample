@@ -68,6 +68,7 @@ class Query(graphene.ObjectType):
     """
 
     places = graphene.List(Place)
+    place = graphene.Field(Place, place_id=graphene.Int())
 
     @staticmethod
     def resolve_places(
@@ -75,5 +76,10 @@ class Query(graphene.ObjectType):
     ) -> list[PlaceModel]:
         return PlacesService().get_places()
 
+    @staticmethod
+    def resolve_place(
+        parent: Optional[dict], info: ResolveInfo, place_id: int  # pylint: disable=unused-argument
+    ) -> list[PlaceModel]:
+        return PlacesService().get_place(place_id)
 
 schema = Schema(query=Query)
