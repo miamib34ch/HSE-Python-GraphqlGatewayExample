@@ -7,6 +7,7 @@ from dataloaders import CountryLoader, NewsLoader
 DATA_LOADER_COUNTRIES = "countries"
 DATA_LOADER_NEWS = "news"
 
+
 def register_dataloaders() -> Dict[str, DataLoader]:
     """
     Регистрация загрузчиков данных.

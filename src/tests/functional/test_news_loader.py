@@ -23,12 +23,10 @@ class TestNewsLoader:
             == "Vladimir Putin to give annual address to the nation in Moscow"
         )
         assert (
-                news_item.description == "The major speech comes two years after the full-scale invasion of Ukraine - and a day before Alexei Navalny's funeral."
+            news_item.description
+            == "The major speech comes two years after the full-scale invasion of Ukraine - and a day before Alexei Navalny's funeral."
         )
-        assert (
-            news_item.url == "https://www.bbc.co.uk/news/live/world-europe-68431017"
-        )
-
+        assert news_item.url == "https://www.bbc.co.uk/news/live/world-europe-68431017"
 
     def test_load_many_news(self, loader):
         news: list[list[NewsModel]] = loader.load_many(["RU", "IE", "RS"]).get()

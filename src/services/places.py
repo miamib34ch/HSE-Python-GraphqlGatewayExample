@@ -35,7 +35,6 @@ class PlacesService:
 
         return result
 
-
     def get_place(self, place_id: int) -> PlaceModel:
         """
         Получение любимого места.

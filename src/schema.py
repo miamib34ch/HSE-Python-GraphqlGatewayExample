@@ -111,8 +111,11 @@ class Query(graphene.ObjectType):
 
     @staticmethod
     def resolve_place(
-        parent: Optional[dict], info: ResolveInfo, place_id: int  # pylint: disable=unused-argument
+        parent: Optional[dict],
+        info: ResolveInfo,
+        place_id: int,  # pylint: disable=unused-argument
     ) -> list[PlaceModel]:
         return PlacesService().get_place(place_id)
+
 
 schema = Schema(query=Query)

@@ -1,8 +1,8 @@
 from datetime import date, datetime
 
 from services.countries import CountriesService
-from services.places import PlacesService
 from services.news import NewsService
+from services.places import PlacesService
 
 
 def test_read_news():

@@ -14,6 +14,7 @@ class TestPlace:
     """
     Тесты для схемы Place
     """
+
     @pytest.fixture
     def place_graphene(self):
         """Фикстура для Place"""

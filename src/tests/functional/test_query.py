@@ -9,6 +9,7 @@ class TestQuery:
     """
     Тесты для схемы Query
     """
+
     @pytest.fixture
     def query(self):
         """Фикстура для Query"""

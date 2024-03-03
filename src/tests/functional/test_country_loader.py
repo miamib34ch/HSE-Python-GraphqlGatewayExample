@@ -22,7 +22,7 @@ class TestCountryLoader:
         assert country.longitude == 100.0
         assert country.demonym == "Russian"
         assert country.area == 17124442.0
-        assert country.numeric_code == '643'
+        assert country.numeric_code == "643"
         assert country.flag == "http://assets.promptapi.com/flags/RU.svg"
         assert country.currencies == ["RUB"]
         assert country.languages == ["Russian"]
