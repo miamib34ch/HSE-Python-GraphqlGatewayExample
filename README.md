@@ -1,4 +1,4 @@
-# GraphQL API Gateway 
+# GraphQL API Gateway
 
 This project is an example of GraphQL implementation for API Gateway that can interact with microservices.
 
