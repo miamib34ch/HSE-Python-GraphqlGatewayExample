@@ -1,0 +1,49 @@
+{
+  "status": "ok",
+  "totalResults": 415,
+  "articles":
+  [
+    {
+      "source":
+      {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Kate Knibbs",
+      "title": "Confessions of an AI Clickbait Kingpin",
+      "description": "Serbian DJ turned internet entrepreneur Neboj\u0161a Vujinovi\u0107 Vujo floods abandoned news sites with AI-generated articles. But he wants you to know he's a nice guy.",
+      "url": "https://www.wired.com/story/confessions-of-an-ai-clickbait-kingpin/",
+      "urlToImage": "https://media.wired.com/photos/65c185b1bba36dfa01f19fc5/191:100/w_1280,c_limit/culture_ai_clickbait_kingpin.jpg",
+      "publishedAt": "2024-02-07T12:00:00Z",
+      "content": "Im not a fan of AI, Neboja Vujinovi Vujo says. The admission surprises me: He has built a bustling business by snapping up abandoned news outlets and other websites and stuffing them full of algorith\u2026 [+4802 chars]"
+    },
+    {
+      "source":
+      {
+        "id": null,
+        "name": "Atlas Obscura"
+      },
+      "author": "ugc",
+      "title": "The Why? Memorial in Belgrade, Serbia",
+      "description": "Tucked away to the rear of St. Mark's Orthodox Church in Belgrade is the Zasto? (Why?) Memorial, which commemorates those who lost their lives in when a Serbian television station was the target of a missile.\nOn the evening of April 23, 1999, the North Atlant\u2026",
+      "url": "https://www.atlasobscura.com/places/the-why-memorial-belgrade",
+      "urlToImage": "https://img.atlasobscura.com/MjhQrAit2Zc601_4Ef3iBuXXj5wkYLGQC9Odif-weNM/rt:fit/w:600/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9iMWJj/NmJhNS0zZDliLTRj/MWQtOWZhMy1mMGZm/ZmY1YTM4ZjQzNWYw/NmU2MTQ2NzZlNTdh/NDRfRkJfSU1HXzE3/MDM5NDc1MjU0NTIu/anBn.jpg",
+      "publishedAt": "2024-02-29T21:00:00Z",
+      "content": "Tucked away to the rear of St. Marks Orthodox Church in Belgrade is the Zasto? (Why?) Memorial, which commemorates those who lost their lives in when a Serbian television station was the target of a \u2026 [+1028 chars]"
+    },
+    {
+      "source":
+      {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "abcnews.go.com",
+      "title": "Passenger jet hits equipment on takeoff from Belgrade airport, makes emergency return",
+      "description": "A passenger jet with 106 people on board had to return to the Belgrade airport after it hit runway equipment and sustained severe damage shortly after takeoff from the Serbian capital BELGRADE, Serbia -- A passenger jet with 106 people on board returned safel\u2026",
+      "url": "https://biztoc.com/x/383784e82cc15e43",
+      "urlToImage": "https://c.biztoc.com/p/383784e82cc15e43/s.webp",
+      "publishedAt": "2024-02-19T12:38:06Z",
+      "content": "A passenger jet with 106 people on board had to return to the Belgrade airport after it hit runway equipment and sustained severe damage shortly after takeoff from the Serbian capitalBELGRADE, Serbia\u2026 [+296 chars]"
+    }
+  ]
+}

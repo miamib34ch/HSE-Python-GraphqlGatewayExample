@@ -1,0 +1,49 @@
+{
+  "status": "ok",
+  "totalResults": 8746,
+  "articles":
+  [
+    {
+      "source":
+      {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Vladimir Putin to give annual address to the nation in Moscow",
+      "description": "The major speech comes two years after the full-scale invasion of Ukraine - and a day before Alexei Navalny's funeral.",
+      "url": "https://www.bbc.co.uk/news/live/world-europe-68431017",
+      "urlToImage": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/5.3.0/bbc_news_logo.png",
+      "publishedAt": "2024-02-29T08:03:38Z",
+      "content": "At 09:00 GMT, we're due to hear from Vladimir Putin, who will give his annual state of the nation address to Russian officials and the wider population.\r\nThe next presidential election is just two we\u2026 [+569 chars]"
+    },
+    {
+      "source":
+      {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "People begin to gather for Alexei Navalny's funeral",
+      "description": "The activist's wife says she does not know if the funeral in Moscow will be peaceful or if arrests will be made.",
+      "url": "https://www.bbc.co.uk/news/live/world-68427413",
+      "urlToImage": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/5.3.0/bbc_news_logo.png",
+      "publishedAt": "2024-03-01T08:56:06Z",
+      "content": "People are beginning to gather outside the Church of the Icon of Our Lady Quench My\r\nSorrows, in Maryino, where the funeral of Alexei Navalny is due to take place later today.\r\nNavalny died on 16 Feb\u2026 [+548 chars]"
+    },
+    {
+      "source":
+      {
+        "id": null,
+        "name": "NPR"
+      },
+      "author": null,
+      "title": "Alexei Navalny has died in prison at 47, Moscow says",
+      "description": "The Federal Prison Service said in a statement that Navalny felt unwell after a walk on Friday and lost consciousness. The politician's team says it has received no confirmation of his death so far.",
+      "url": "https://www.npr.org/2024/02/16/1231946376/alexei-navalny-death-in-prison-vladimir-putin-opposition",
+      "urlToImage": "https://media.npr.org/assets/img/2024/02/16/ap21109762433952_wide-5586ad0a1bd33e4b0022adb31a32fc9c79267c82-s1400-c100.jpg",
+      "publishedAt": "2024-02-16T12:18:22Z",
+      "content": "Alexei Navalny is seen in 2012 behind the bars in a police van after he was detained during protests in Moscow a day after Putin's inauguration.\r\nSergey Ponomarev/AP\r\nMOSCOW Alexei Navalny, the fierc\u2026 [+1635 chars]"
+    }
+  ]
+}
